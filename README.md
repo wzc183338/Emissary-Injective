@@ -27,7 +27,7 @@ Emissary provides an ideal solution for Web 3.0 businesses that need to pay thei
 
 👇 **Here's a demo video to have a quick overview of Emissary** 👇
 
-TBA
+[Video](https://www.youtube.com/watch?v=a8J_-tx6MPg)
 
 # Key Features
 
