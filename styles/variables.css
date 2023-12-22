@@ -1,0 +1,40 @@
+/* css variable define in .css file because they gave error when using within CssVars(polished) */
+
+:root {
+  /* variables */
+  --primary: #323232;
+  --dark-primary: #383838;
+  --light-secondry: rgba(94, 64, 153, 0.1);
+  --territory: #48201d;
+  --blue: #3788ce;
+  --blue-light: #d9edff;
+  --blue-dark: #aad0f0;
+  --white: #fff;
+  --black: #000;
+  --matte-black: #313131;
+  --solid-gray: #353535;
+  --gray-50: #888;
+  --gray-100: #92979d;
+  --gray-150: #c2c9d1;
+  --gray-200: #c8c8c8;
+  --gray-250: #eee;
+  --gray-300: #e1e1e1;
+  --success: #0eac27;
+  --danger: #e00000;
+  --warning: #fecf31;
+
+  --base-font-sans-serif: "Inter", "Arial", "Helvetica Neue", "Helvetica",
+    sans-serif;
+  --base-font-serif: "Times New Roman", "Times", "Baskerville", "GeorFgia",
+    serif;
+
+  /* Body */
+  --base-text-color: var(--primary);
+  --base-background-color: var(--gray-250);
+  --font-size-base: 14px;
+  --line-height-base: 18px;
+  --base-font-family: var(--base-font-sans-serif);
+  --base-min-width: 370px;
+
+  /*  Links */
+}
